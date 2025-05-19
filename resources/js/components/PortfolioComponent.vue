@@ -249,27 +249,25 @@
                     </div>
                 </div>
             </div>
-            <div class="hero">
+            <!--<div class="hero">
                 <div class="container">
                     <div class="row">
-                        <!-- Kolom Teks -->
                         <div class="col-md-6 d-flex flex-column justify-content-center" style="margin-top: 128px;">
                             <h1 style="font-size: 64px;">Dealer yang sudah beroperasi di Indonesia</h1>
                             <div class="mt-4">
                                 <a href="#about" class="btn-get-started" style="text-decoration: none;">Lihat Selengkapnya</a>
                             </div>
                         </div>
-                        <!-- Kolom Gambar dengan Carousel -->
                         <div class="col-md-6 d-flex align-items-center justify-content-center" style="margin-top: 128px;">
                             <div id="heroCarousel" class="carousel slide" data-bs-ride="carousel">
-                                <!-- Indicators -->
+                                
                                 <ol class="carousel-indicators">
                                     <li data-bs-target="#heroCarousel" data-bs-slide-to="0" class="active"></li>
                                     <li data-bs-target="#heroCarousel" data-bs-slide-to="1"></li>
                                     <li data-bs-target="#heroCarousel" data-bs-slide-to="2"></li>
                                 </ol>
             
-                                <!-- Wrapper for slides -->
+                                
                                 <div class="carousel-inner">
                                     <div class="carousel-item active">
                                         <img src="assets/img/SSM.jpg" class="d-block w-100 img-fluid" alt="Slide 1">
@@ -282,7 +280,6 @@
                                     </div>
                                 </div>
             
-                                <!-- Controls -->
                                 <a class="carousel-control-prev" href="#heroCarousel" role="button" data-bs-slide="prev">
                                     <span class="carousel-control-prev-icon" aria-hidden="true"></span>
                                     <span class="visually-hidden">Previous</span>
@@ -295,7 +292,7 @@
                         </div>
                     </div>
                 </div>
-            </div>            
+            </div>-->            
         </section>
             <!-- Footer -->
 <footer class="text-center text-lg-start bg-body-tertiary text-muted">
